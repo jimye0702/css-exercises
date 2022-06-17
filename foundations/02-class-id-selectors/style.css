@@ -1,0 +1,20 @@
+/* stylesheet */
+
+.odd {
+	background-color: lightpink;
+	font-family: Verdana, 'Dejavu sans', sans-serif;
+
+}
+
+#even_2 {
+	color: blue;
+	font-size: 36px;
+
+}
+
+#even_4 {
+	background-color: lightgreen;
+	font-size: 24px;
+	font-weight: bold;
+	
+}
